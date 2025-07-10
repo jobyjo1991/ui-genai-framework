@@ -1,0 +1,19 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore environment variable files
+.env
+
+# Ignore PyCharm project settings
+.idea/
+
+# Ignore test reports and generated files
+reports/
